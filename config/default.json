@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Jose123:Jose12345@cluster0-651aq.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
